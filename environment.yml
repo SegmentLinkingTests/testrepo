@@ -10,7 +10,7 @@ dependencies:
     - pyodide-http
   - xeus-python
   - ipycanvas
-  - numpy
+  - numpy <2.0.0
   - awkward-cpp
   - awkward
   - boost-histogram
