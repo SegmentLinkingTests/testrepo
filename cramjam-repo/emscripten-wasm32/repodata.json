@@ -1,0 +1,26 @@
+{
+  "info": {
+    "subdir": "emscripten-wasm32"
+  },
+  "packages": {
+    "cramjam-2.8.3-py311h1562a1a_0.tar.bz2": {
+      "arch": "wasm32",
+      "build": "py311h1562a1a_0",
+      "build_number": 0,
+      "depends": [
+        "cffi ==1.15.1",
+        "typing_extensions"
+      ],
+      "md5": "dba1aba12bb4ab1e447e4c311f5c9386",
+      "name": "cramjam",
+      "platform": "emscripten",
+      "sha256": "dd5da99c34d0c3ded4dd4d6f2176354d1189316f150cde0ef7e9aa0bd79af678",
+      "size": 1238789,
+      "subdir": "emscripten-wasm32",
+      "timestamp": 1719880354894,
+      "version": "2.8.3"
+    }
+  },
+  "packages.conda": {},
+  "repodata_version": 2
+}

@@ -1,5 +1,6 @@
 name: xeus-python-kernel
 channels:
+  - file:///home/runner/work/2024-07-02-pyhep-uproot-rntuple/2024-07-02-pyhep-uproot-rntuple/cramjam-repo
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
 dependencies:
@@ -18,3 +19,4 @@ dependencies:
   - histoprint
   - mplhep
   - requests
+  - cramjam
