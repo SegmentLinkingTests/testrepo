@@ -12,6 +12,7 @@ dependencies:
   - xeus-python
   - ipycanvas
   - numpy <2.0.0
+  - scipy
   - awkward-cpp
   - awkward
   - boost-histogram
