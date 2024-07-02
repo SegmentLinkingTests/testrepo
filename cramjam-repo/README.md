@@ -1,0 +1,1 @@
+This directory contains a `cramjam` conda package that is used when setting up the environment for JupyterLite. The source code and license can be found in the `cramjam` submodule, or at <https://github.com/milesgranger/cramjam>.

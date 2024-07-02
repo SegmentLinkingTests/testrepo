@@ -1,0 +1,3 @@
+[submodule "cramjam-repo/cramjam"]
+	path = cramjam-repo/cramjam
+	url = https://github.com/milesgranger/cramjam
