@@ -8,5 +8,5 @@ dependencies:
   - jupyterlab
   - jupyterlab-deck
   - jupyterlab-myst
-  - jupyterlite-core >=0.3.0,<0.4.0
+  - jupyterlite-core-with-all >=0.3.0,<0.4.0
   - jupyterlite-xeus>=0.1.2,<0.2
